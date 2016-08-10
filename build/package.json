@@ -1,6 +1,6 @@
 {
-  "name": "notes-dev",
-  "productName": "Notes Dev",
+  "name": "notes",
+  "productName": "Notes",
   "identifier": "com.cepinos.notes",
   "description": "Notes out of the box ready for serious stuff.",
   "version": "1.5.2",
@@ -13,7 +13,7 @@
     "lodash": "^4.4.0"
   },
   "env": {
-    "name": "development",
+    "name": "production",
     "description": "Add here any environment specific stuff you like."
   }
 }

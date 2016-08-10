@@ -12,6 +12,7 @@ var Notes = {
   ]
 }
 
+// FIXME: Do not use Vue as a Global Variable. Use it importing the library with CommonJS standard.
 new Vue({
   el: '#app',
   data: Notes,
